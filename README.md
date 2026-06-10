@@ -15,5 +15,5 @@ Python and Power BI.
 - Python (Pandas)
 - Power BI
 
-#Dashbord Preview
-<img width="1192" height="661" alt="Screenshot 2026-06-03 224201" src="https://github.com/user-attachments/assets/c68f0ff7-88e6-4b7d-bd22-0d425b186ec0" />
+## Dashbord Preview
+<img width="1186" height="671" alt="Screenshot 2026-06-10 145610" src="https://github.com/user-attachments/assets/75fa5e5b-4b67-424d-a80f-4c9d84c0e42f" />
